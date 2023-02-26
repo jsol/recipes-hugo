@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Recept'
+theme = "yinyang"
+
+[taxonomies]
+   tag = "tags"
+
+[params]
+mainSections = ["recipes"]
