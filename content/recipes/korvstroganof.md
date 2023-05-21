@@ -1,33 +1,23 @@
 ---
-title: "Spenatpaj"  
-draft: true
+title: "Korv Stroganoff"  
+draft: false
 tags:
-  - Paj
 ---
 
 ## Ingredienser
 - 1 liten burk Creme fraiche
-- 1 påse Färsk Spenat
-- 200g Svamp
-- 1 Lök
-- 1 paket Ädelost
-- 1 paket Tofu
-- Lagom Vitlök
-- Lite Liquid Smoke
+- 2 Lök
+- 1 paket falukorv
+- 1 paket krossade tomater
+- Lagom dijonsenap
+- Buljongtärning
 
 ## Instruktioner
-Hacka lök, tofu och svamp.
+Skiva lök i båtar, falukorven till stavar.
 
-Stek Tofun först med lite liquid smoke och lite chiliflakes.
+Stek lök + falukorv.
 
-Häll i lök & svamp efter tofun börjat få färg
+Häll i krossade tomater + buljongtärning, koka upp.
 
-När svampen är stekt häll i spenaten
+Häll i creme fraiche. Smaka av med dijon. Klart.
 
-Därefter creme fraichen + vitlök + ädelost.
-
-Häll över i pajskal
-
-Ev några ägg till stanningen
-
-[Paj]({{< ref "pajskal.md" >}} "Pajskal")

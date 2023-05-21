@@ -1,33 +1,50 @@
 ---
-title: "Spenatpaj"  
-draft: true
+title: "Lasagne"  
+draft: false
 tags:
-  - Paj
+  - Ugn
 ---
 
 ## Ingredienser
-- 1 liten burk Creme fraiche
-- 1 påse Färsk Spenat
-- 200g Svamp
-- 1 Lök
-- 1 paket Ädelost
-- 1 paket Tofu
-- Lagom Vitlök
-- Lite Liquid Smoke
+### Sås
+1 L 3% mjölk
+1dl vetemjöl
+75 g smör
+2dl ost
+
+### Köttfärs
+1 lök
+1 paket krossade tomater
+400 g champinioner
+500 g blandfärs
+Spiskummin
+Mejram
+Tabasco
+Smoke
+Vitlök
+Chilliflakes
+Buljongtärning
+Majzena
 
 ## Instruktioner
-Hacka lök, tofu och svamp.
+Ugn 175 g
 
-Stek Tofun först med lite liquid smoke och lite chiliflakes.
+Hacka lök och svamp.
 
-Häll i lök & svamp efter tofun börjat få färg
+Stek lök, i med svamp, i med köttfärs.
 
-När svampen är stekt häll i spenaten
+Stek tills det ser najs ut, i med tomatter, koka upp.
 
-Därefter creme fraichen + vitlök + ädelost.
+I med kryddning efter behag.
 
-Häll över i pajskal
+Tjocka upp med majzena.
 
-Ev några ägg till stanningen
+Börja göra bechamele genom att smälta smöret, blanda i mjöl, stek snabbt.
 
-[Paj]({{< ref "pajskal.md" >}} "Pajskal")
+Häll i ca hälften av mjölken, lös upp smör / mjöl kombon. Häll i resten av mjölken. Låt koka upp under omrörning.
+
+Häll i osten som avslutning.
+
+Smöra formen, kleta ut lite ostsås på botten. Sen plattor -> köttfärs -> sås -> plattor -> köttfärs -> sås -> plattor -> ost.
+
+Kör i ugn ca 40 minuter
