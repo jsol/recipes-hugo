@@ -1,33 +1,25 @@
 ---
-title: "Spenatpaj"  
-draft: true
+title: "Pepparrotssås"  
+draft: false
 tags:
-  - Paj
+  - Sås
+  - Tillbehör
 ---
 
 ## Ingredienser
-- 1 liten burk Creme fraiche
-- 1 påse Färsk Spenat
-- 200g Svamp
-- 1 Lök
-- 1 paket Ädelost
-- 1 paket Tofu
-- Lagom Vitlök
-- Lite Liquid Smoke
+- 100 g smör
+- 1,5 dl vetemjöl
+- 1 l mjölk
+- salt
+- vitpeppar
+- 2 tsk färsk pepparrot, riven
+
 
 ## Instruktioner
-Hacka lök, tofu och svamp.
+iKoka upp mjölken i en kastrull.
 
-Stek Tofun först med lite liquid smoke och lite chiliflakes.
+Smält smöret i en annan kastrull. Blanda ner vetemjölet och vispa det till en jämn redning. Späd med den kokta mjölken och vispa hela tiden.
 
-Häll i lök & svamp efter tofun börjat få färg
+Koka upp såsen och låt den koka minst 5 minuter.
 
-När svampen är stekt häll i spenaten
-
-Därefter creme fraichen + vitlök + ädelost.
-
-Häll över i pajskal
-
-Ev några ägg till stanningen
-
-[Paj]({{< ref "pajskal.md" >}} "Pajskal")
+Krydda såsen med pepparrot, salt och peppar.

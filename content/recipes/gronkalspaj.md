@@ -14,6 +14,8 @@ tags:
 - 1 msk Grönsaksfond
 
 ## Instruktioner
+Ugn 200 grader
+
 Dra av grönkålsbladen från själkarna, grovhacka och koka med salt i ca 3 minuter.
 
 Grovhacka rödlök och stek med grönkålen i smör

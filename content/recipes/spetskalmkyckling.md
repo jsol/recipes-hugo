@@ -2,7 +2,6 @@
 title: "Spetskål med kyckling"
 draft: false
 tags:
-  - Paj
 ---
 
 ## Ingredienser

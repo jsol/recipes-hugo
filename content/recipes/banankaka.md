@@ -1,33 +1,34 @@
 ---
-title: "Spenatpaj"  
-draft: true
+title: "Banankaka"  
+draft: false
 tags:
-  - Paj
+  - Efterrätt
 ---
 
 ## Ingredienser
-- 1 liten burk Creme fraiche
-- 1 påse Färsk Spenat
-- 200g Svamp
-- 1 Lök
-- 1 paket Ädelost
-- 1 paket Tofu
-- Lagom Vitlök
-- Lite Liquid Smoke
+- 100 g smör
+- 3 ägg
+- 1 dl socker
+- 1 dl farinsocker
+- 2 tsk vaniljpulver
+- 2 tsk bakpulver
+- 1 tsk kanel
+- 1 krm salt
+- 3-4 övermogna bananer
+- 300 g mjöl
+- 1 dl mjölk (vanlig eller soja)
 
 ## Instruktioner
-Hacka lök, tofu och svamp.
+Ugn 175
 
-Stek Tofun först med lite liquid smoke och lite chiliflakes.
+Smält smör
 
-Häll i lök & svamp efter tofun börjat få färg
+Vispa ägg och socker pösigt.
 
-När svampen är stekt häll i spenaten
+Tillsätt vaniljsocker, bakpulver, kanel och salt, vispa ihop.
 
-Därefter creme fraichen + vitlök + ädelost.
+Krossa bananer, tillsätt dem med smör, vetemjöl och mjölk.
 
-Häll över i pajskal
+Smöra & bröa form, häll i smeten
 
-Ev några ägg till stanningen
-
-[Paj]({{< ref "pajskal.md" >}} "Pajskal")
+Grädda ca 45 minuter

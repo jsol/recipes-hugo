@@ -16,6 +16,9 @@ tags:
 - Lite Liquid Smoke
 
 ## Instruktioner
+
+Ugn 200 grader
+
 Hacka lök, tofu och svamp.
 
 Stek Tofun först med lite liquid smoke och lite chiliflakes.

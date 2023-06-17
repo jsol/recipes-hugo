@@ -1,33 +1,21 @@
 ---
-title: "Spenatpaj"  
-draft: true
+title: "Grönpepparsås"  
+draft: false
 tags:
-  - Paj
+  - Sås
+  - Tillbehör
 ---
 
 ## Ingredienser
-- 1 liten burk Creme fraiche
-- 1 påse Färsk Spenat
-- 200g Svamp
-- 1 Lök
-- 1 paket Ädelost
-- 1 paket Tofu
-- Lagom Vitlök
-- Lite Liquid Smoke
+- 1 liten matlagningsgrädde
+- Slatt smör
+- Lagom grönpeppar
+- Matsked dijonsenap
+- Kub grönsaksbuljong
+- Matsked socker / håoning / sirap
 
 ## Instruktioner
-Hacka lök, tofu och svamp.
 
-Stek Tofun först med lite liquid smoke och lite chiliflakes.
+Krossa grönpepparen, stek i lite smör. Häll i grädde, koka upp, i med buljongtärning och dijon.
 
-Häll i lök & svamp efter tofun börjat få färg
-
-När svampen är stekt häll i spenaten
-
-Därefter creme fraichen + vitlök + ädelost.
-
-Häll över i pajskal
-
-Ev några ägg till stanningen
-
-[Paj]({{< ref "pajskal.md" >}} "Pajskal")
+Smaksätt med socker och salt.

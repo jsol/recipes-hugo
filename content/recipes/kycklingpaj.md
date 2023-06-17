@@ -15,6 +15,8 @@ tags:
 - 1 grönsaksbuljong
 
 ## Instruktioner
+Ugn 200 grader
+
 Strimla bacon + kyckling + purjolök
 
 Stek i stor gryta i olja + curry

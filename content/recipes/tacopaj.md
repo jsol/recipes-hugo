@@ -1,33 +1,34 @@
 ---
-title: "Spenatpaj"  
-draft: true
+title: "Tacopaj"  
+draft: false
 tags:
   - Paj
 ---
 
 ## Ingredienser
-- 1 liten burk Creme fraiche
-- 1 påse Färsk Spenat
-- 200g Svamp
-- 1 Lök
-- 1 paket Ädelost
-- 1 paket Tofu
-- Lagom Vitlök
-- Lite Liquid Smoke
+- 1 gul lök
+- 2-3 klyftor vitlök
+- 400g nötfärs
+- Spiskummin
+- Chilli-flakes
+- 2dl creme fraiche
+- 150 g körsbärstomater
+- Paprikapulver
+- Buljongtärning
+- 1 paket ost
 
 ## Instruktioner
-Hacka lök, tofu och svamp.
 
-Stek Tofun först med lite liquid smoke och lite chiliflakes.
+Ugn 200 grader
 
-Häll i lök & svamp efter tofun börjat få färg
+Hacka lök, stek
 
-När svampen är stekt häll i spenaten
+Tillsätt köttfärs, krydda.
 
-Därefter creme fraichen + vitlök + ädelost.
+Tillsätt creme fraiche, koka ihop. 
 
-Häll över i pajskal
+Dela tomaterna, sprid ut dem i pajjen
 
-Ev några ägg till stanningen
+Fyll på med köttfärs-fyllningen, täck med ost
 
 [Paj]({{< ref "pajskal.md" >}} "Pajskal")

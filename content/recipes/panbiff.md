@@ -1,33 +1,24 @@
 ---
-title: "Spenatpaj"  
-draft: true
+title: "Pannbiff"  
+draft: false
 tags:
-  - Paj
 ---
 
 ## Ingredienser
-- 1 liten burk Creme fraiche
-- 1 påse Färsk Spenat
-- 200g Svamp
-- 1 Lök
-- 1 paket Ädelost
-- 1 paket Tofu
-- Lagom Vitlök
-- Lite Liquid Smoke
+- 1/2 dl ströbröd
+- 1 dl vatten
+- 1  ägg
+- 500 g blandfärs
+- 2 msk dijonsenap
+- 1/2 tsk salt
+- 1 krm peppar
+- 1 msk olja
+
 
 ## Instruktioner
-Hacka lök, tofu och svamp.
 
-Stek Tofun först med lite liquid smoke och lite chiliflakes.
+Ugn 200 grader
 
-Häll i lök & svamp efter tofun börjat få färg
+Blanda ströbröd och vatten i en stor bunke. Låt stå någon minut. Blanda ner ägg, färs, senap, salt och peppar. Forma färsen till 8 biffar (för 4 port).
 
-När svampen är stekt häll i spenaten
-
-Därefter creme fraichen + vitlök + ädelost.
-
-Häll över i pajskal
-
-Ev några ägg till stanningen
-
-[Paj]({{< ref "pajskal.md" >}} "Pajskal")
+Bryn dem på båda sidor i oljan i en stekpanna. Lägg biffarna i en ugnssäker form eller sätt in stekpannan (om den tål det) mitt i ugnen ca 8 minuter.
