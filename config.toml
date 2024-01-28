@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mat.pedell.net/'
 languageCode = 'en-us'
 title = 'Recept'
 theme = "yinyang"
