@@ -1,5 +1,5 @@
 ---
-title: "Tiramisu"  
+title: "Tiramisu"
 draft: false
 tags:
   - Efterrätt
@@ -17,7 +17,7 @@ tags:
 1 msk  kakao
 
 ## Instruktioner
-Dela äggen. Häll äggvitorna i en vispskål. 
+Dela äggen. Häll äggvitorna i en vispskål.
 
 Lägg äggulorna i en annan vispskål och tillsätt sockret.
 
@@ -40,6 +40,3 @@ Bred ut hälften av mascarponesmeten ovanpå. Sikta över kakao.
 Lägg på de sista 6 kexen och bred på sista hälften av mascarponesmeten.
 
 In i kylen.
-
-
-[Paj]({{< ref "pajskal.md" >}} "Pajskal")

@@ -1,33 +1,27 @@
 ---
-title: "Spenatpaj"  
-draft: true
+title: "Höstgryta"
+draft: false
 tags:
-  - Paj
 ---
 
 ## Ingredienser
-- 1 liten burk Creme fraiche
-- 1 påse Färsk Spenat
+- 400g grytbitar fläsk
+- 1 påse bacon
 - 200g Svamp
-- 1 Lök
-- 1 paket Ädelost
-- 1 paket Tofu
-- Lagom Vitlök
+- 2 Lök
+- 1 äpple
+- 1 morot
+- 1 palsternacka
+- 2.5 dl grädde
+- 2 dl rödvin
+- lagerblad
+- enbär
 - Lite Liquid Smoke
+- Matsked dijonsenap
 
 ## Instruktioner
-Hacka lök, tofu och svamp.
+Skär lök i båtar, stek i grytan med grytbitarna.
 
-Stek Tofun först med lite liquid smoke och lite chiliflakes.
+Häll i resten av ingredienserna, utom svamp. Låt koka några timmar.
 
-Häll i lök & svamp efter tofun börjat få färg
-
-När svampen är stekt häll i spenaten
-
-Därefter creme fraichen + vitlök + ädelost.
-
-Häll över i pajskal
-
-Ev några ägg till stanningen
-
-[Paj]({{< ref "pajskal.md" >}} "Pajskal")
+Stek svampen, häll i i grytan.

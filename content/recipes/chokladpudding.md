@@ -25,4 +25,4 @@ Koka tills den tjocknar.
 
 Ta av plattan, blanda i smöret.
 
-Låt smalna en stund, därefter häll över i glas och ställ i kylen.
+Låt svalna en stund, därefter häll över i glas och ställ i kylen.

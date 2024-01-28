@@ -3,6 +3,7 @@ title: "Fiskgratäng"
 draft: false
 tags:
  - vegetarisk
+ - Fisk
 ---
 
 ## Ingredienser
