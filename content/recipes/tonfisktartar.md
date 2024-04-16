@@ -9,7 +9,7 @@ tags:
 ## Ingredienser
 (2 pers)
 
-- 2,5 msk japansk soja
+- 2 msk japansk soja
 - 2 tsk strösocker
 - 2 krm wasabi (mer om man gillar stinget)
 - 1 msk sesamolja
