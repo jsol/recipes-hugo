@@ -3,7 +3,6 @@ title: "Quiche Lorraine"
 draft: false
 tags:
   - Paj
-  - Vegetarisk
 ---
 
 ## Ingredienser

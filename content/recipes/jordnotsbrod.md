@@ -7,7 +7,6 @@ tags:
 
 ## Ingredienser
 - ½ dl socker
-- 3 ägg
 - 4.5 dl mjöl
 - Nypa salt
 - 4 teskedar bakpulver
@@ -19,9 +18,7 @@ Ugn 160
 
 Blanda mjöl, socker, bakpulver.
 
-Häll i mjölk
-
-Blanda mjöl, bakpulver separat, vik in i avokadoröran.
+Häll i mjölk, jordnötssmör, knåda ihop
 
 För över till form.
 
