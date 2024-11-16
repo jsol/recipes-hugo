@@ -6,34 +6,33 @@ tags:
 ---
 
 ## Ingredienser
-- 3 kycklingfileer
-- 300g Risnudlar
-- 2 Gula lökar
-- 3 Vårlökar
-- 1 msk Fisksås
-- 1½ msk OStronsås
-- ½ msk Kinesisk soja
-- 3 Vitlök
-- 3msk vatten
+- 2 kycklingfileer / 10 stora räkor
+- 115g Risnudlar
+- Matlagningsolja
+- 2 matskedar torkade räkor
+- 3 klyftor vitlök
+- 2 Schalottenlök
+- 85 g tofu
+- 2 ägg
+- Chiliflakes
 - 1 Lime
-- 2 Chillie
-- 1stk Socker
-- 2msk Tamarin
-- 2 ½ dl Groddar
-- 2 Ägg
+- Jordnötter
+- Böngroddar
+
 
 ## Instruktioner
-Koka nudlar.
+Blötlägg nudlar i 1 timme i rumstemprererat vatten!
 
-Strimla allt. Lök i båtar.
+Förbered [pad thai sås]({{< ref "padthaisas.md" >}} "pad thai sås").
 
+Hacka schalottenlök + vitlök, kuba tofu.
 
-Gör sås (fisksås => tamarin)
+Stek proteinet, ta ut.
 
-Knäck ägg & vispa ihop
+Stek resten.
 
-Fräs kyckling + lök + vårlök
+Tillsätt nudlarna och såsen (1.2 dl).
 
-Blanda i nudlar & sås
+Stek äggen i 30s under nudlarna.
 
-Blanda i groddar + ägg
+Häll i proteinet, böngroddar, jordnötter. Mixa.
