@@ -2,6 +2,8 @@
 title: "Höstgryta"
 draft: false
 tags:
+- Ugn
+- Slow cook
 ---
 
 ## Ingredienser

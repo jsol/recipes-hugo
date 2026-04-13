@@ -1,5 +1,5 @@
 ---
-title: "Lax & Feta i ugn"
+title: "Majonäs"
 draft: false
 tags:
   - Side
