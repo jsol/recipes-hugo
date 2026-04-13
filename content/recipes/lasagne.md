@@ -27,7 +27,7 @@ Buljongtärning
 Majzena
 
 ## Instruktioner
-Ugn 175 g
+Ugn 175°
 
 Hacka lök och svamp.
 

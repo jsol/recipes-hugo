@@ -19,7 +19,7 @@ tags:
 - 1 dl mjölk (vanlig eller soja)
 
 ## Instruktioner
-Ugn 175
+Ugn 175°
 
 Smält smör
 

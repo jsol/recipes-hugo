@@ -1,5 +1,5 @@
 ---
-title: "Bun Cha"  
+title: "Bun Cha"
 draft: false
 tags:
   - Köttfärs
@@ -14,12 +14,12 @@ tags:
 - 1 citrongräs
 
 ### Dressing
-- 3 msk vitt socke
-- 3 msk fisksås
-- 2 msk risvinäger
-- 2 msk lime juice
-- 1 dl vatten 
-- 3 klyftor vitlök
+- 1 ½ msk vitt socke
+- 1 ½ msk fisksås
+- 1 msk risvinäger
+- 1 msk lime juice
+- ½ dl vatten 
+- 2 klyftor vitlök
 
 ### Extra
 - böngroddar
@@ -27,7 +27,7 @@ tags:
 - morötter & rädisa 
 
 ## Instruktioner
-Mixa allt, borde bli minst 6 bullar. Stek i 2+2 minuter på mediuom-hög värme.
+Mixa allt, borde bli minst 6 bullar. Stek i 2+2 minuter på medium-hög värme.
 
-### Sås
+### Dressing
 Blanda allt, låt vila minst 10 minuter.
